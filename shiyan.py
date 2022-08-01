@@ -17,6 +17,9 @@ response_3m = um_futures_client.open_interest_hist('DODOBUSD', "3m", **{"limit":
 print(response_15m)
 print(response_3m)
 
+
+
+
 # print(response_2h)
 
 # file_image = open('pic.jpg', 'rb').read()
